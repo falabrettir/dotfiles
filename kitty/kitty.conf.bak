@@ -7,6 +7,6 @@ font_size 11
 
 
 # BEGIN_KITTY_THEME
-# Tokyo Night
+# Belafonte Night
 include current-theme.conf
 # END_KITTY_THEME
