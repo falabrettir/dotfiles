@@ -5,8 +5,9 @@ bold_italic_font auto
 bold_font auto
 font_size 11
 
+background_opacity 0.7
 
 # BEGIN_KITTY_THEME
-# Belafonte Night
+# Rosé Pine Moon
 include current-theme.conf
 # END_KITTY_THEME
